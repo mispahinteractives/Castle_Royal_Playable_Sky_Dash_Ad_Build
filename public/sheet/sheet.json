@@ -2,7 +2,7 @@
 
 {
 	"filename": "coins/1",
-	"frame": {"x":609,"y":1051,"w":95,"h":95},
+	"frame": {"x":743,"y":1100,"w":95,"h":95},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":95},
@@ -10,7 +10,7 @@
 },
 {
 	"filename": "coins/2",
-	"frame": {"x":707,"y":1047,"w":92,"h":95},
+	"frame": {"x":820,"y":942,"w":92,"h":95},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":1,"y":0,"w":92,"h":95},
@@ -18,7 +18,7 @@
 },
 {
 	"filename": "coins/3",
-	"frame": {"x":802,"y":1047,"w":81,"h":95},
+	"frame": {"x":915,"y":956,"w":81,"h":95},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":7,"y":0,"w":81,"h":95},
@@ -26,7 +26,7 @@
 },
 {
 	"filename": "coins/4",
-	"frame": {"x":672,"y":729,"w":66,"h":95},
+	"frame": {"x":929,"y":858,"w":66,"h":95},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":14,"y":0,"w":66,"h":95},
@@ -34,11 +34,99 @@
 },
 {
 	"filename": "coins/5",
-	"frame": {"x":967,"y":122,"w":47,"h":95},
+	"frame": {"x":841,"y":1094,"w":47,"h":95},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":23,"y":0,"w":47,"h":95},
 	"sourceSize": {"w":96,"h":96}
+},
+{
+	"filename": "confetti/confetti_1",
+	"frame": {"x":243,"y":1135,"w":17,"h":56},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":56},
+	"sourceSize": {"w":17,"h":56}
+},
+{
+	"filename": "confetti/confetti_2",
+	"frame": {"x":967,"y":39,"w":20,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":30},
+	"sourceSize": {"w":20,"h":30}
+},
+{
+	"filename": "confetti/confetti_3",
+	"frame": {"x":891,"y":1094,"w":37,"h":73},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":37,"h":73},
+	"sourceSize": {"w":37,"h":73}
+},
+{
+	"filename": "confetti/confetti_4",
+	"frame": {"x":506,"y":1164,"w":35,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":21},
+	"sourceSize": {"w":35,"h":21}
+},
+{
+	"filename": "confetti/confetti_5",
+	"frame": {"x":957,"y":755,"w":36,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":26},
+	"sourceSize": {"w":36,"h":26}
+},
+{
+	"filename": "confetti/confetti_6",
+	"frame": {"x":453,"y":875,"w":36,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":36,"h":26},
+	"sourceSize": {"w":36,"h":26}
+},
+{
+	"filename": "confetti/confetti_7",
+	"frame": {"x":967,"y":2,"w":20,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":34},
+	"sourceSize": {"w":20,"h":34}
+},
+{
+	"filename": "confetti/confetti_8",
+	"frame": {"x":967,"y":2,"w":20,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":34},
+	"sourceSize": {"w":20,"h":34}
+},
+{
+	"filename": "confetti/confetti_9",
+	"frame": {"x":408,"y":1164,"w":33,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":33},
+	"sourceSize": {"w":33,"h":33}
+},
+{
+	"filename": "confetti/confetti_10",
+	"frame": {"x":477,"y":1164,"w":26,"h":33},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":33},
+	"sourceSize": {"w":26,"h":33}
+},
+{
+	"filename": "confetti/confetti_11",
+	"frame": {"x":955,"y":564,"w":24,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":28},
+	"sourceSize": {"w":24,"h":28}
 },
 {
 	"filename": "Congrats",
@@ -49,8 +137,16 @@
 	"sourceSize": {"w":962,"h":217}
 },
 {
+	"filename": "end platform reward",
+	"frame": {"x":408,"y":1033,"w":163,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":163,"h":128},
+	"sourceSize": {"w":163,"h":128}
+},
+{
 	"filename": "favicon",
-	"frame": {"x":2,"y":992,"w":154,"h":154},
+	"frame": {"x":752,"y":455,"w":154,"h":154},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":154},
@@ -58,7 +154,7 @@
 },
 {
 	"filename": "Gameplay screen/Coin HUD",
-	"frame": {"x":741,"y":821,"w":166,"h":69},
+	"frame": {"x":574,"y":1107,"w":166,"h":69},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":166,"h":69},
@@ -66,7 +162,7 @@
 },
 {
 	"filename": "Gameplay screen/Streak meter -3 slot",
-	"frame": {"x":428,"y":1039,"w":178,"h":61},
+	"frame": {"x":687,"y":878,"w":178,"h":61},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":61},
@@ -74,7 +170,7 @@
 },
 {
 	"filename": "Gameplay screen/Streak meter -4 slot",
-	"frame": {"x":453,"y":878,"w":209,"h":61},
+	"frame": {"x":496,"y":969,"w":209,"h":61},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":209,"h":61},
@@ -82,7 +178,7 @@
 },
 {
 	"filename": "Gameplay screen/Streak meter -5 slot",
-	"frame": {"x":752,"y":663,"w":238,"h":61},
+	"frame": {"x":2,"y":1135,"w":238,"h":61},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":238,"h":61},
@@ -90,7 +186,7 @@
 },
 {
 	"filename": "Gameplay screen/Streak_Blue fill",
-	"frame": {"x":389,"y":916,"w":30,"h":33},
+	"frame": {"x":444,"y":1164,"w":30,"h":33},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":33},
@@ -98,7 +194,7 @@
 },
 {
 	"filename": "Gameplay screen/Streak_Empty slot",
-	"frame": {"x":985,"y":584,"w":23,"h":25},
+	"frame": {"x":967,"y":72,"w":23,"h":25},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":25},
@@ -106,7 +202,7 @@
 },
 {
 	"filename": "Gameplay screen/Unicycle HUD icon",
-	"frame": {"x":849,"y":893,"w":51,"h":69},
+	"frame": {"x":453,"y":718,"w":51,"h":69},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":69},
@@ -114,7 +210,7 @@
 },
 {
 	"filename": "Gameplay screen/Unicycle HUD icon_Fades",
-	"frame": {"x":617,"y":942,"w":86,"h":106},
+	"frame": {"x":909,"y":455,"w":86,"h":106},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":1,"y":0,"w":86,"h":106},
@@ -122,7 +218,7 @@
 },
 {
 	"filename": "Hand",
-	"frame": {"x":869,"y":222,"w":134,"h":165},
+	"frame": {"x":271,"y":1023,"w":134,"h":165},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":9,"y":7,"w":134,"h":165},
@@ -130,7 +226,7 @@
 },
 {
 	"filename": "info",
-	"frame": {"x":509,"y":486,"w":240,"h":240},
+	"frame": {"x":509,"y":455,"w":240,"h":240},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
@@ -146,7 +242,7 @@
 },
 {
 	"filename": "particles/blue",
-	"frame": {"x":428,"y":1103,"w":43,"h":43},
+	"frame": {"x":909,"y":564,"w":43,"h":43},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":43},
@@ -154,7 +250,7 @@
 },
 {
 	"filename": "particles/white",
-	"frame": {"x":666,"y":827,"w":58,"h":60},
+	"frame": {"x":868,"y":878,"w":58,"h":60},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":60},
@@ -162,7 +258,7 @@
 },
 {
 	"filename": "particles/yellow",
-	"frame": {"x":886,"y":1070,"w":58,"h":58},
+	"frame": {"x":686,"y":796,"w":58,"h":58},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":58},
@@ -178,7 +274,7 @@
 },
 {
 	"filename": "Rope",
-	"frame": {"x":509,"y":455,"w":502,"h":28},
+	"frame": {"x":2,"y":916,"w":502,"h":28},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":502,"h":28},
@@ -186,7 +282,7 @@
 },
 {
 	"filename": "Skydash screen/achieved pin",
-	"frame": {"x":818,"y":967,"w":49,"h":51},
+	"frame": {"x":807,"y":1040,"w":49,"h":51},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":51},
@@ -194,7 +290,7 @@
 },
 {
 	"filename": "Skydash screen/Milestone pedestal",
-	"frame": {"x":932,"y":727,"w":63,"h":186},
+	"frame": {"x":869,"y":222,"w":63,"h":186},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":63,"h":186},
@@ -202,7 +298,7 @@
 },
 {
 	"filename": "Skydash screen/Progress FILL",
-	"frame": {"x":159,"y":1104,"w":180,"h":17},
+	"frame": {"x":743,"y":858,"w":180,"h":17},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":17},
@@ -210,7 +306,7 @@
 },
 {
 	"filename": "Skydash screen/Start platform pillar overlay",
-	"frame": {"x":967,"y":2,"w":46,"h":117},
+	"frame": {"x":935,"y":222,"w":46,"h":117},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":117},
@@ -218,7 +314,7 @@
 },
 {
 	"filename": "Skydash screen/unachieved pin",
-	"frame": {"x":947,"y":1070,"w":49,"h":51},
+	"frame": {"x":859,"y":1040,"w":49,"h":51},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":49,"h":51},
@@ -226,7 +322,7 @@
 },
 {
 	"filename": "Solitaire Logo",
-	"frame": {"x":752,"y":727,"w":177,"h":91},
+	"frame": {"x":507,"y":875,"w":177,"h":91},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":177,"h":91},
@@ -242,7 +338,7 @@
 },
 {
 	"filename": "talon_base",
-	"frame": {"x":159,"y":992,"w":266,"h":109},
+	"frame": {"x":2,"y":1023,"w":266,"h":109},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":266,"h":109},
@@ -258,7 +354,7 @@
 },
 {
 	"filename": "TEXT-Complete level to win/1",
-	"frame": {"x":2,"y":916,"w":384,"h":73},
+	"frame": {"x":2,"y":947,"w":384,"h":73},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":73},
@@ -266,7 +362,7 @@
 },
 {
 	"filename": "TEXT-Complete level to win/2",
-	"frame": {"x":706,"y":893,"w":140,"h":71},
+	"frame": {"x":574,"y":1033,"w":140,"h":71},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":71},
@@ -274,7 +370,7 @@
 },
 {
 	"filename": "TEXT-Complete level to win/3",
-	"frame": {"x":453,"y":804,"w":210,"h":71},
+	"frame": {"x":768,"y":784,"w":210,"h":71},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":71},
@@ -282,7 +378,7 @@
 },
 {
 	"filename": "TEXT-Complete level to win/4",
-	"frame": {"x":903,"y":916,"w":104,"h":73},
+	"frame": {"x":389,"y":947,"w":104,"h":73},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":104,"h":73},
@@ -290,7 +386,7 @@
 },
 {
 	"filename": "TEXT-Complete level to win/5",
-	"frame": {"x":453,"y":729,"w":216,"h":72},
+	"frame": {"x":752,"y":612,"w":216,"h":72},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":216,"h":72},
@@ -298,7 +394,7 @@
 },
 {
 	"filename": "TEXT-Make it to the end/1",
-	"frame": {"x":752,"y":584,"w":230,"h":76},
+	"frame": {"x":453,"y":796,"w":230,"h":76},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":230,"h":76},
@@ -306,7 +402,7 @@
 },
 {
 	"filename": "TEXT-Make it to the end/2",
-	"frame": {"x":886,"y":992,"w":87,"h":75},
+	"frame": {"x":717,"y":1022,"w":87,"h":75},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":75},
@@ -314,7 +410,7 @@
 },
 {
 	"filename": "TEXT-Make it to the end/3",
-	"frame": {"x":706,"y":967,"w":109,"h":77},
+	"frame": {"x":708,"y":942,"w":109,"h":77},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":109,"h":77},
@@ -322,7 +418,7 @@
 },
 {
 	"filename": "TEXT-Make it to the end/4",
-	"frame": {"x":428,"y":942,"w":186,"h":94},
+	"frame": {"x":768,"y":687,"w":186,"h":94},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":186,"h":94},
@@ -330,19 +426,35 @@
 },
 {
 	"filename": "TEXT-Make it to the end/5",
-	"frame": {"x":752,"y":486,"w":256,"h":95},
+	"frame": {"x":509,"y":698,"w":256,"h":95},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":95},
 	"sourceSize": {"w":256,"h":95}
+},
+{
+	"filename": "tower door inside",
+	"frame": {"x":957,"y":687,"w":42,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":65},
+	"sourceSize": {"w":42,"h":65}
+},
+{
+	"filename": "tower reward",
+	"frame": {"x":935,"y":342,"w":42,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":65},
+	"sourceSize": {"w":42,"h":65}
 }],
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
 	"version": "1.0",
 	"image": "sheet.png",
 	"format": "RGBA8888",
-	"size": {"w":1016,"h":1148},
+	"size": {"w":1001,"h":1199},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:6359e8aedcc89371994f4951df244cc0:e160cb44eb7a010d7aaa43d0f67edbda:9c44ecd7e9a522007eaff2949095bc1d$"
+	"smartupdate": "$TexturePacker:SmartUpdate:3fcbc8010ad3f39158a5f3430da4b8bb:002fa4770c8f8ed7ad9d3e40c32cec47:9c44ecd7e9a522007eaff2949095bc1d$"
 }
 }
