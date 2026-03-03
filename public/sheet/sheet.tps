@@ -752,9 +752,9 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>26,20,52,40</rect>
+                <rect>41,32,81,64</rect>
                 <key>scale9Paddings</key>
-                <rect>26,20,52,40</rect>
+                <rect>41,32,81,64</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -903,9 +903,9 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>5,8,11,17</rect>
+                <rect>11,16,21,33</rect>
                 <key>scale9Paddings</key>
-                <rect>5,8,11,17</rect>
+                <rect>11,16,21,33</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
